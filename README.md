@@ -7,9 +7,9 @@ Here our team did the study of methods of deduplication through which we can do 
 In this project, we did 4 methods of deduplication - Fixed Length Chunking , Variable length Chunking
 , Sliding gate chunking and Extreme Binning. 
 # Inferences
-![alt text](https://raw.githubusercontent.com/saurabhkumar8112/Data-Deduplication-on-Cloud/tree/master/Inferences/Inference1.JPG)
-![alt text](https://raw.githubusercontent.com/saurabhkumar8112/Data-Deduplication-on-Cloud/tree/master/Inferences/Inference2JPG)
-![alt text](https://raw.githubusercontent.com/saurabhkumar8112/Data-Deduplication-on-Cloud/tree/master/Inferences/Inference3.JPG)
+![alt text](https://raw.githubusercontent.com/saurabhkumar8112/Data-Deduplication-on-Cloud/master/Inferences/Inference1.JPG)
+![alt text](https://raw.githubusercontent.com/saurabhkumar8112/Data-Deduplication-on-Cloud/master/Inferences/Inference2JPG)
+![alt text](https://raw.githubusercontent.com/saurabhkumar8112/Data-Deduplication-on-Cloud/master/Inferences/Inference3.JPG)
 # Conclusion
 From the results so obtained from the project, we can clearly see the trade-off between the
 deduplication efficiency and the computation time. In practice as a client point of view we want that
