@@ -8,7 +8,7 @@ In this project, we did 4 methods of deduplication - Fixed Length Chunking , Var
 , Sliding gate chunking and Extreme Binning. 
 # Inferences
 ![alt text](https://raw.githubusercontent.com/saurabhkumar8112/Data-Deduplication-on-Cloud/master/Inferences/Inference1.JPG)
-![alt text](https://raw.githubusercontent.com/saurabhkumar8112/Data-Deduplication-on-Cloud/master/Inferences/Inference2JPG)
+![alt text](https://raw.githubusercontent.com/saurabhkumar8112/Data-Deduplication-on-Cloud/master/Inferences/Inference2.JPG)
 ![alt text](https://raw.githubusercontent.com/saurabhkumar8112/Data-Deduplication-on-Cloud/master/Inferences/Inference3.JPG)
 # Conclusion
 From the results so obtained from the project, we can clearly see the trade-off between the
