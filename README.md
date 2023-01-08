@@ -17,3 +17,6 @@ our computation time should be small, but we also want that our storage should b
 So we can conclude for the company point of view where the efficiency and time both matters, we
 can use the extreme binning algorithm. This algorithm performs well even if we have prefixes as this
 uses the variable length chunking. 
+
+### NOTE
+This project was done in 2017, the original repositories contents were copied and put here in a different repo for backup in 2020
